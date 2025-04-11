@@ -1,0 +1,7 @@
+{
+  "name": "YourTokenName",
+  "symbol": "YTN",
+  "decimals": 9,
+  "description": "This is a sample Solana token created by me!",
+  "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/logo.png"
+}
